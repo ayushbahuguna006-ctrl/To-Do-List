@@ -32,7 +32,7 @@ TODO LIST/
 <h1>⚙️ How It Works</h1>
 1. Click the extension icon
 
-This opens your popup.html.
+This opens your index.html.
 
 2. Add a task
 

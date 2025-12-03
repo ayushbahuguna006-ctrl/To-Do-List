@@ -25,9 +25,5 @@ btn.addEventListener("click", () => {
     input.value = "";
     count++;}
 });
-fetch('https://icanhazdadjoke.com/slack')
-.then(response => response.json())   // parse JSON
-.then(data => {
-    console.log(data);               // entire JSON object
-     // joke text from Slack format
-})
+
+
